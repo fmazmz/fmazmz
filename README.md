@@ -1,5 +1,7 @@
 <h1>Hi, I'm Firas! <br/><a>Penetration Tester</a>, <a href="https://www.linkedin.com/in/firas-moussa-a88a87226/">Network Security student</a></h1>
-
+<h2>🕵🏽‍♂️Profiles</h2>
+<h3><a href="https://tryhackme.com/p/IamGr00t">TryHackMe</a></h3>
+<h3><a href="https://www.linkedin.com/in/firas-moussa-a88a87226/">LinkedIn</a></h3>
 <h2>👨‍💻 Pentesting Projects</h2>
 
 - <b>Active Directory Homelab</b>
@@ -17,7 +19,4 @@
         <p> - LSAdumps on target machines with Mimikatz</p>
         <p> - NTSD.dit dumps form the Domain Controller to retrieve domain credential hashes using Secretsdump</p>
         <p> - Password cracking with Hashcat</p>
-
-
-<h2><a href="https://tryhackme.com/p/IamGr00t">TryHackMe Profile</a></h2>
         
