@@ -1,4 +1,4 @@
-<h1>Hi, I'm Firas! <br/><a>Penetration Tester</a>, Network Security student</h1>
+<h1>Hi, I'm Firas! <br/>PJPT Certified Penetration Tester, Network Security student</h1>
 <h2>🕵🏽‍♂️Profiles</h2>
 <h3><a href="https://tryhackme.com/p/IamGr00t">TryHackMe</a></h3>
 <h3><a href="https://www.linkedin.com/in/firas-moussa-a88a87226/">LinkedIn</a></h3>
