@@ -6,3 +6,5 @@
 
 - <b><a href="https://github.com/fmazmz/AD-homelab">Active Directory Homelab</a></b>
         
+## 🧑‍🎓 University Projects
+- <b><a href="https://github.com/fmazmz/1DV510">FIDO (Fast Identity Online) Technology (Academc Report)</b>
