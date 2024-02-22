@@ -13,5 +13,5 @@
 - <b><a href="https://github.com/fmazmz/1DV700/blob/main/ThreatModeling_Report.pdf">Threat Modeling - (Report)</b>
 - <b><a href="https://github.com/fmazmz/1DV501">Hashes & Binary Search Trees - (Python Project)</b>
 - <b><a href="https://github.com/fmazmz/1DV503/blob/main/Assignment1_FirasMoussa_1DV503.pdf">Entity Relations - (DBMS - Report)</b>
-- <b><a href="https://github.com/fmazmz/1DV501">Object-Oriented Programming - (Java Assignment)</b>
+- <b><a href="https://github.com/fmazmz/1DV502">Object-Oriented Programming - (Java Assignment)</b>
 
