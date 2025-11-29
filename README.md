@@ -1,4 +1,4 @@
-<h1>Hi, I'm Firas! <br/>Software Engineer</h1>
+<h1>Hi, I'm Firas!<br/></h1>
 
 ## 🕵🏽‍♂️Profiles
 <h3><a href="https://tryhackme.com/p/IamGr00t">TryHackMe</a></h3>
