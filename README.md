@@ -16,5 +16,5 @@ There's a powerful group of people out there that are secretly running the world
 I'm talking about the guys no one knows about.
 The guys that are invisible.
 The top one percent of the top one percent.
-The guys that play God without permission.
+The guys that play G*d without permission.
 And now I think they're following me.
