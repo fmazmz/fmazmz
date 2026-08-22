@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="792" height="268" viewBox="0 0 792 268">
+<style>
+.h { fill: #1f2328; font: 600 16px "Mona Sans VF", -apple-system, "system-ui", "Segoe UI", "Noto Sans", Helvetica, Arial, sans-serif; }
+.k { fill: #59636e; font: 400 14px "Mona Sans VF", -apple-system, "system-ui", "Segoe UI", "Noto Sans", Helvetica, Arial, sans-serif; }
+.v { fill: #1f2328; font: 600 14px "Mona Sans VF", -apple-system, "system-ui", "Segoe UI", "Noto Sans", Helvetica, Arial, sans-serif; font-variant-numeric: tabular-nums; }
+.lg { fill: #59636e; font: 400 12px "Mona Sans VF", -apple-system, "system-ui", "Segoe UI", "Noto Sans", Helvetica, Arial, sans-serif; }
+.rule { stroke: #d1d9e0; stroke-width: 1; }
+</style>
+<text x="0" y="20" class="h">Activity</text>
+<text x="0" y="52" class="k">Contributions</text>
+<text x="264" y="52" class="v" text-anchor="end">4,582</text>
+<text x="0" y="79" class="k">Pull requests opened</text>
+<text x="264" y="79" class="v" text-anchor="end">231</text>
+<text x="0" y="106" class="k">Merged</text>
+<text x="264" y="106" class="v" text-anchor="end">221</text>
+<text x="0" y="133" class="k">Pull requests reviewed</text>
+<text x="264" y="133" class="v" text-anchor="end">73</text>
+<text x="0" y="160" class="k">Issues opened</text>
+<text x="264" y="160" class="v" text-anchor="end">251</text>
+<text x="280" y="20" class="h">Repositories</text>
+<text x="280" y="52" class="k">Repositories</text>
+<text x="544" y="52" class="v" text-anchor="end">73 (42 public)</text>
+<text x="280" y="79" class="k">Releases</text>
+<text x="544" y="79" class="v" text-anchor="end">3</text>
+<text x="280" y="106" class="k">Packages</text>
+<text x="544" y="106" class="v" text-anchor="end">–</text>
+<text x="280" y="133" class="k">Licensed</text>
+<text x="544" y="133" class="v" text-anchor="end">12 of 73</text>
+<text x="280" y="160" class="k">Storage</text>
+<text x="544" y="160" class="v" text-anchor="end">105 MB</text>
+<text x="560" y="20" class="h">Reach</text>
+<text x="560" y="52" class="k">Stars received</text>
+<text x="824" y="52" class="v" text-anchor="end">5</text>
+<text x="560" y="79" class="k">Forks</text>
+<text x="824" y="79" class="v" text-anchor="end">3</text>
+<text x="560" y="106" class="k">Followers</text>
+<text x="824" y="106" class="v" text-anchor="end">9</text>
+<text x="560" y="133" class="k">Following</text>
+<text x="824" y="133" class="v" text-anchor="end">9</text>
+<text x="560" y="160" class="k">Organizations</text>
+<text x="824" y="160" class="v" text-anchor="end">3</text>
+<line x1="0" y1="196" x2="792" y2="196" class="rule"/>
+<text x="0" y="212" class="h">Languages</text>
+<clipPath id="bar"><rect x="0" y="216" width="792" height="8" rx="4"/></clipPath>
+<g clip-path="url(#bar)">
+<rect x="0.00" y="216" width="343.70" height="8" fill="#b07219"/>
+<rect x="343.70" y="216" width="224.15" height="8" fill="#3178c6"/>
+<rect x="567.85" y="216" width="164.38" height="8" fill="#3572A5"/>
+<rect x="732.23" y="216" width="44.83" height="8" fill="#8b949e"/>
+<rect x="777.06" y="216" width="14.94" height="8" fill="#dea584"/>
+</g>
+<circle cx="5" cy="248" r="5" fill="#b07219"/>
+<text x="14" y="252" class="lg">Java</text>
+<circle cx="58.6" cy="248" r="5" fill="#3178c6"/>
+<text x="67.6" y="252" class="lg">TypeScript</text>
+<circle cx="153.6" cy="248" r="5" fill="#3572A5"/>
+<text x="162.6" y="252" class="lg">Python</text>
+<circle cx="221.0" cy="248" r="5" fill="#8b949e"/>
+<text x="230.0" y="252" class="lg">C</text>
+<circle cx="253.9" cy="248" r="5" fill="#dea584"/>
+<text x="262.9" y="252" class="lg">Rust</text>
+</svg>
