@@ -8,7 +8,7 @@
 </style>
 <text x="0" y="20" class="h">Activity</text>
 <text x="0" y="52" class="k">Contributions</text>
-<text x="264" y="52" class="v" text-anchor="end">4,852</text>
+<text x="264" y="52" class="v" text-anchor="end">4,861</text>
 <text x="0" y="79" class="k">Pull requests opened</text>
 <text x="264" y="79" class="v" text-anchor="end">126</text>
 <text x="0" y="106" class="k">Merged</text>
@@ -19,13 +19,13 @@
 <text x="264" y="160" class="v" text-anchor="end">50</text>
 <text x="280" y="20" class="h">Repositories</text>
 <text x="280" y="52" class="k">Repositories</text>
-<text x="544" y="52" class="v" text-anchor="end">42 (42 public)</text>
+<text x="544" y="52" class="v" text-anchor="end">43 (43 public)</text>
 <text x="280" y="79" class="k">Releases</text>
 <text x="544" y="79" class="v" text-anchor="end">3</text>
 <text x="280" y="106" class="k">Packages</text>
 <text x="544" y="106" class="v" text-anchor="end">0</text>
 <text x="280" y="133" class="k">Licensed</text>
-<text x="544" y="133" class="v" text-anchor="end">11 of 42</text>
+<text x="544" y="133" class="v" text-anchor="end">11 of 43</text>
 <text x="280" y="160" class="k">Storage</text>
 <text x="544" y="160" class="v" text-anchor="end">91 MB</text>
 <text x="560" y="20" class="h">Reach</text>
@@ -46,8 +46,8 @@
 <rect x="0.00" y="216" width="518.90" height="8" fill="#b07219"/>
 <rect x="518.90" y="216" width="136.55" height="8" fill="#3572A5"/>
 <rect x="655.45" y="216" width="81.93" height="8" fill="#8b949e"/>
-<rect x="737.38" y="216" width="27.31" height="8" fill="#dea584"/>
-<rect x="764.69" y="216" width="27.31" height="8" fill="#8b949e"/>
+<rect x="737.38" y="216" width="27.31" height="8" fill="#e34c26"/>
+<rect x="764.69" y="216" width="27.31" height="8" fill="#dea584"/>
 </g>
 <circle cx="5" cy="248" r="5" fill="#b07219"/>
 <text x="14" y="252" class="lg">Java</text>
@@ -55,8 +55,8 @@
 <text x="67.6" y="252" class="lg">Python</text>
 <circle cx="126.0" cy="248" r="5" fill="#8b949e"/>
 <text x="135.0" y="252" class="lg">C</text>
-<circle cx="158.9" cy="248" r="5" fill="#dea584"/>
-<text x="167.9" y="252" class="lg">Rust</text>
-<circle cx="212.5" cy="248" r="5" fill="#8b949e"/>
-<text x="221.5" y="252" class="lg">Vue</text>
+<circle cx="158.9" cy="248" r="5" fill="#e34c26"/>
+<text x="167.9" y="252" class="lg">HTML</text>
+<circle cx="212.5" cy="248" r="5" fill="#dea584"/>
+<text x="221.5" y="252" class="lg">Rust</text>
 </svg>
