@@ -8,7 +8,7 @@
 </style>
 <text x="0" y="20" class="h">Activity</text>
 <text x="0" y="52" class="k">Contributions</text>
-<text x="264" y="52" class="v" text-anchor="end">4,976</text>
+<text x="264" y="52" class="v" text-anchor="end">4,978</text>
 <text x="0" y="79" class="k">Pull requests opened</text>
 <text x="264" y="79" class="v" text-anchor="end">127</text>
 <text x="0" y="106" class="k">Merged</text>
@@ -19,15 +19,15 @@
 <text x="264" y="160" class="v" text-anchor="end">50</text>
 <text x="280" y="20" class="h">Repositories</text>
 <text x="280" y="52" class="k">Repositories</text>
-<text x="544" y="52" class="v" text-anchor="end">45 (45 public)</text>
+<text x="544" y="52" class="v" text-anchor="end">46 (46 public)</text>
 <text x="280" y="79" class="k">Releases</text>
 <text x="544" y="79" class="v" text-anchor="end">3</text>
 <text x="280" y="106" class="k">Packages</text>
 <text x="544" y="106" class="v" text-anchor="end">0</text>
 <text x="280" y="133" class="k">Licensed</text>
-<text x="544" y="133" class="v" text-anchor="end">11 of 45</text>
+<text x="544" y="133" class="v" text-anchor="end">11 of 46</text>
 <text x="280" y="160" class="k">Storage</text>
-<text x="544" y="160" class="v" text-anchor="end">92 MB</text>
+<text x="544" y="160" class="v" text-anchor="end">93 MB</text>
 <text x="560" y="20" class="h">Reach</text>
 <text x="560" y="52" class="k">Stars received</text>
 <text x="824" y="52" class="v" text-anchor="end">5</text>
@@ -46,8 +46,8 @@
 <rect x="0.00" y="216" width="536.52" height="8" fill="#b07219"/>
 <rect x="536.52" y="216" width="127.74" height="8" fill="#3572A5"/>
 <rect x="664.26" y="216" width="76.65" height="8" fill="#8b949e"/>
-<rect x="740.90" y="216" width="25.55" height="8" fill="#89e051"/>
-<rect x="766.45" y="216" width="25.55" height="8" fill="#e34c26"/>
+<rect x="740.90" y="216" width="25.55" height="8" fill="#663399"/>
+<rect x="766.45" y="216" width="25.55" height="8" fill="#89e051"/>
 </g>
 <circle cx="5" cy="248" r="5" fill="#b07219"/>
 <text x="14" y="252" class="lg">Java</text>
@@ -55,8 +55,8 @@
 <text x="67.6" y="252" class="lg">Python</text>
 <circle cx="126.0" cy="248" r="5" fill="#8b949e"/>
 <text x="135.0" y="252" class="lg">C</text>
-<circle cx="158.9" cy="248" r="5" fill="#89e051"/>
-<text x="167.9" y="252" class="lg">Shell</text>
-<circle cx="219.4" cy="248" r="5" fill="#e34c26"/>
-<text x="228.4" y="252" class="lg">HTML</text>
+<circle cx="158.9" cy="248" r="5" fill="#663399"/>
+<text x="167.9" y="252" class="lg">CSS</text>
+<circle cx="205.60000000000002" cy="248" r="5" fill="#89e051"/>
+<text x="214.60000000000002" y="252" class="lg">Shell</text>
 </svg>
